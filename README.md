@@ -1,7 +1,11 @@
 # AI-Powered Multilingual Voice-Enabled Todo Chatbot
 
-A console-based AI-powered todo chatbot that accepts natural language commands in both text and voice formats, automatically detects and translates between 7+ languages, and uses a modular agent architecture for intent classification, task management, and multimodal interaction.
+**Overview**
 
+Phase V introduces an advanced, multimodal, and multilingual AI-powered Todo Chatbot.
+The system supports both text and voice interaction, automatic language detection and translation, and a modular agent-based architecture for intelligent task management.
+
+This phase focuses on usability, accessibility, and conversational intelligence through voice, multilingual processing, and distributed deployment.
 ## Features
 
 - **Text-Based Task Management**: Manage tasks using natural language English commands (add, view, update, delete)
