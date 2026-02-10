@@ -173,10 +173,4 @@ python run_server.py
 
 The server will start on `http://localhost:8000` with API documentation available at `http://localhost:8000/docs`.
 
-## License
 
-[Your License Here]
-
-## Contributing
-
-[Contributing Guidelines]
